@@ -61,7 +61,16 @@ This project demonstrates a simple but powerful **Wi-Fi provisioning system usin
 
 ## 📁 Project Structure
 
-
+ESP32-WiFi-Provisioning/
+│
+├── ESP32-WiFi-Provisioning.ino
+│
+├── docs/
+│   └── images
+│
+├── .gitignore
+├── LICENSE
+└── README.md
 
 ---
 
