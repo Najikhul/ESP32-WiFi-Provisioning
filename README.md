@@ -1,6 +1,9 @@
 # ESP32-WiFi-Provisioning
 ESP32 Wi-Fi Provisioning system using Access Point mode and local Web Server for wireless Wi-Fi configuration without re-uploading firmware.
-# ESP32 Wi-Fi Provisioning System 🔧📶
+
+---
+
+## ESP32 Wi-Fi Provisioning System 🔧📶
 
 Have you ever wondered how smart home devices like smart lamps, CCTV, or IoT devices connect to Wi-Fi without needing to reprogram them every time the network changes?
 
@@ -48,16 +51,6 @@ This project demonstrates a simple but powerful **Wi-Fi provisioning system usin
 
 ---
 
-## 📸 Project Preview
-
-Add your images inside `/docs` folder:
-- Setup page
-- Hotspot mode
-- Serial monitor output
-- Connected status
-
----
-
 ## 🛠 Hardware Used
 
 - ESP32 Dev Board
@@ -67,6 +60,7 @@ Add your images inside `/docs` folder:
 ---
 
 ## 📁 Project Structure
+
 
 
 ---
